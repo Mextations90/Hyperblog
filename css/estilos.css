@@ -9,17 +9,30 @@
 
 }
 
+#cabecera{
+
+   text-align: center;
+   font-size: 30px;
+   background-color: blue;
+   color: white;
+   margin: 0px;
+   padding: 0;
+
+}
+
 #container {
 
    width: 70%;
-   padding: 1em;
+   padding: 0 ;
    text-align: left;
    border: 1px solid #ddd;
    margin: 0 auto;
 }
 
+
 #container h1{ 
 
+   
    font-size: 20px ;
 
 }
