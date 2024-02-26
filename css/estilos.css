@@ -1,6 +1,6 @@
  body {
 
-   color: #333;
+   color: red;
    text-align: left;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-size: 16px;
@@ -9,29 +9,17 @@
 
 }
 
-#cabecera{
-
-   text-align: center;
-   font-size: 30px;
-   background-color: blue;
-   color: white;
-   margin: 0px;
-   padding: 0;
-
-}
-
 #container {
 
    width: 70%;
-   padding: 0 ;
+   padding: 1em;
    text-align: left;
    border: 1px solid #ddd;
    margin: 0 auto;
-} 
-
+}
 
 #container h1{ 
 
-   font-size: 20px;
+   font-size: 20px ;
 
 }
