@@ -6,8 +6,6 @@ me encuentro en bogota y soy judio elite
 
  main 3
 
-Experimental123
-
-experimental 123456
+Estoy en la rama experimental 
 
 o bueno, judio elite.
